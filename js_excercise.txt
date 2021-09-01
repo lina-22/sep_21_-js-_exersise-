@@ -1,0 +1,13 @@
+**************** 1st ex : ***************
+1. Make a website of two pages.
+2. Create a div of 100px with a background colour of black and center it in the 1st page.
+3. Make the div reactive to mouse click and with the click the div should become red, 
+if it is red then it should become black again and so on and so forth.
+
+
+**************** 2nd ex : ***************
+
+1. On the second webpage, set a div and center it.
+2. Add a button into the div. In a p tag, make a timer that starts and stops
+with the click of the button. Button should display 'Start' when the clock
+is stopped and 'Stop' when the clock is started. 
