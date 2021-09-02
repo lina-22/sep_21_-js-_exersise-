@@ -1,0 +1,16 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%;
+} */
+
+#container {
+    background-color: rgb(31, 31, 20);
+    height: 500px;
+    width: 400px;
+    border: 5px solid rgb(8, 110, 105);
+    text-align: center;
+
+
+}

@@ -1,0 +1,40 @@
+/* .parent {
+    width: 500px;
+    height: 400px;
+    border: 10px solid gray;
+    position: relative;
+
+}
+
+.parent .child {
+    width: 100px;
+    height: 100px;
+    background-color: #adff2f;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+} */
+
+.parent {
+    border: 2px solid black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+
+.child {
+    height: 100px;
+    width: 100px;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
