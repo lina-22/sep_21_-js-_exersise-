@@ -1,0 +1,22 @@
+.parent {
+    border: 2px solid green;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+
+
+}
+
+.child {
+    height: 100px;
+    width: 100px;
+    background-color: hotpink;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+
+.tifa {
+    width: 50px;
+}
