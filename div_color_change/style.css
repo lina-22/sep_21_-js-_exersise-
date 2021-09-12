@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.parent {
+    height: 400px;
+    width: 500Px;
+    border: 10px;
+    background-color: thistle;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+
+
+
+}
+
+.child {
+    height: 50px;
+    width: 50px;
+
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+. {
+    background-color: teal;
+}
